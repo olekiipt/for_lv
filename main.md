@@ -61,3 +61,14 @@
 >  cout << "Выздоравливайте скорее)";
 > }
 > ```
+
+>Поправляйтесь, вы нам ещё нужны)))
+>```c#
+>using System;
+>class MainClass {
+> public static void Main (string[] args) {
+>   Console.WriteLine ("Красивая картинка кота");
+> }
+>}
+> ```
+> *~опция, фи-01~*
